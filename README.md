@@ -13,6 +13,7 @@ Component Research
 - Spindle kit for the front two wheels
 - ... inch bolts for the back two wheels
 - Wheels
+
 With this all in play I first went to YouTube and saw places where you can get spindle kits and came across a YouTube video with one.
 Looking down in the description I got one that was listed. With that in play, I saw that the bolts were 5/8th inch bolts for the wheels
 and wanted to have the same wheels for the back, so I decided to get 5/8th inch bots for the back. In terms of wheels, I just used whatever
