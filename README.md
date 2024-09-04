@@ -40,7 +40,7 @@ Cad parts screenshots
 =============
 Note: Regarding Solidworks Parts and Assembly
 
-The parts constructed in Solidworks are not up to scale. This discrepancy arises due to the fact most vendors do not give precise measurements of their components. The purpose of designing and constructing the parts and making the assembly is to serve as a visual display of the functionality and relationship between the components. 
+The parts constructed in Solidworks are not up to scale. This discrepancy arises because most vendors do not give precise measurements of their components. The purpose of designing and constructing the parts and making the assembly is to visually display the functionality and relationship between the components. 
 
 Price sheet is above in file name: Gokart Price sheet
 
@@ -50,6 +50,7 @@ Price sheet is above in file name: Gokart Price sheet
 ![Screenshot 2024-09-03 191754](https://github.com/user-attachments/assets/09590198-666a-4b60-894d-1d27e4a7492e)
 ## Frame pipe
 ![Screenshot 2024-09-03 191849](https://github.com/user-attachments/assets/b8488d54-5ec0-45f3-a64c-11bb805d74ff)
+This specific part was used a multitude of times but with edits to the length dimension
 ## Steering wheel
 ![Screenshot 2024-09-03 191922](https://github.com/user-attachments/assets/7669215f-849a-4765-9fc2-a17ff99b0a49)
 ## Standing bearings
@@ -58,8 +59,9 @@ Price sheet is above in file name: Gokart Price sheet
 ![Screenshot 2024-09-03 192040](https://github.com/user-attachments/assets/5e836052-a673-47be-bb5c-d2894e3b440f)
 ## Wheel
 ![Screenshot 2024-09-03 192040](https://github.com/user-attachments/assets/5e836052-a673-47be-bb5c-d2894e3b440f)
-## Wheel with Brake drum
+## Wheel with the Brake drum
 ![Screenshot 2024-09-03 192132](https://github.com/user-attachments/assets/60ae7db4-b59c-4a2b-87c7-a9e44ac93039)
+Many parts went into making this part, including spacers between the brake drum and the wheel split rim.
 ## Chair
 ![Screenshot 2024-09-03 192213](https://github.com/user-attachments/assets/1395abcb-260b-4919-bd06-ffa020ee5a24)
 ## Steering wheel pipe
@@ -67,14 +69,6 @@ Price sheet is above in file name: Gokart Price sheet
 ## Front axle connector
 ![Screenshot 2024-09-03 193335](https://github.com/user-attachments/assets/f03f63bf-905b-4b05-8fa0-3127ea9a50b9)
 ![Screenshot 2024-09-03 193402](https://github.com/user-attachments/assets/d29a4e2e-7b78-4860-96cc-f786bee054fa)
-
-
-
-
-
-
-
-
 
 Process photos
 =============
