@@ -2,23 +2,51 @@
 [Inspiration](#inspiration)   
 [Brainstorming photos](#brainstrsoming-photos)
 [Component Research](#component-research)   
-[Process photos](#process-photos)  
 [Cad parts screenshots](#cad-parts-screenshots)    
-[Rweb screenshots](#rweb-screenshots)
+[Process photos](#process-photos)  
+[R-studios screenshots](#r-studios-screenshots)
 [Errors and Solutions](#errors-and-solutions)
+
+Inspiration
+=============
+In the early stages of my go-kart project, I found a lot of inspiration by watching YouTube videos. I explored various channels where creators shared their builds, offering insights and tips that shaped my approach. Seeing others' innovative solutions and creative designs motivated me to experiment with different ideas and techniques. These videos not only provided technical guidance but also fueled my enthusiasm for the project, helping me visualize what was possible and encouraging me to push the boundaries of my design.
+
+Brainstorming photos
+=============
+Some photos of brainstorming
 
 Component Research
 =============
 ## Wheels
 - Spindle kit for the front two wheels
-- ... inch bolts for the back two wheels
+- 5/8th inch bolts for the back two wheels
 - Wheels
+- Spacers
 
-With this all in play I first went to YouTube and saw places where you can get spindle kits and came across a YouTube video with one.
-Looking down in the description I got one that was listed. With that in play, I saw that the bolts were 5/8th inch bolts for the wheels
-and wanted to have the same wheels for the back, so I decided to get 5/8th inch bots for the back. In terms of wheels, I just used whatever
-the youtube description listed as well as it would fit well with the front wheels, and with the 5/8th inch back screws it would fit well
-with those also.
+With all this in mind, I started by searching on YouTube for spindle kits and came across a helpful video. I found a kit listed in the video description, which led me to notice that the bolts for the wheels were 5/8 inch. I wanted to use the same wheels for the rear, so I decided to get 5/8-inch screws for the back as well. I followed the recommendations from the YouTube description for the wheels, ensuring they would fit well with both the front wheels and the 5/8-inch rear bolts.
+
+## Frame
+- Aluminum/steel pipes
+
+I found these steel pipes at Home Depot and there wasn't much research gone into this due to the fact I didn't want to order custom pipes
+
+## Steering wheels
+- Standing bearers
+- Pipe
+- Wheel
+- Laser-cut metals
+
+Cad parts screenshots
+=============
+
+Process photos
+=============
+
+R-studios screenshots
+=============
+
+Error and solutions
+=============
   
 
 
