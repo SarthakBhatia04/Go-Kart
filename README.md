@@ -52,6 +52,8 @@ Price sheet is above in file name: Gokart Price sheet
 ![Screenshot 2024-09-03 191849](https://github.com/user-attachments/assets/b8488d54-5ec0-45f3-a64c-11bb805d74ff)
 ## Steering wheel
 ![Screenshot 2024-09-03 191922](https://github.com/user-attachments/assets/7669215f-849a-4765-9fc2-a17ff99b0a49)
+## Standing bearings
+![Screenshot 2024-09-03 192001](https://github.com/user-attachments/assets/6721e59d-b635-4aa3-9484-171f37be746c)
 
 
 
