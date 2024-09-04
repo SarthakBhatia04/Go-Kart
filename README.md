@@ -60,6 +60,9 @@ Price sheet is above in file name: Gokart Price sheet
 ![Screenshot 2024-09-03 192040](https://github.com/user-attachments/assets/5e836052-a673-47be-bb5c-d2894e3b440f)
 ## Wheel with Brake drum
 ![Screenshot 2024-09-03 192132](https://github.com/user-attachments/assets/60ae7db4-b59c-4a2b-87c7-a9e44ac93039)
+## Chair
+![Screenshot 2024-09-03 192213](https://github.com/user-attachments/assets/1395abcb-260b-4919-bd06-ffa020ee5a24)
+
 
 
 
