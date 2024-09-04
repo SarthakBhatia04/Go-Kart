@@ -28,13 +28,27 @@ With all this in mind, I started by searching on YouTube for spindle kits and ca
 ## Frame
 - Aluminum/steel pipes
 
-I found these steel pipes at Home Depot and there wasn't much research gone into this due to the fact I didn't want to order custom pipes
+I found these steel pipes at Home Depot and there wasn't much research gone into this due to the fact I didn't want to order custom pipes.
 
 ## Steering wheels
 - Standing bearers
 - Pipe
 - Wheel
 - Laser-cut metals
+
+## Engine
+- engine
+- laser cut engine holder
+
+I tried to get a 78cc engine from Harbor Freight but it was unavailable to be shipped here so I ordered one from Harbor Freight which is 98cc and included a clutch and sprocket plus a chain. This helped as I didn't have to do trial and error in finding parts that find the engine like I would have done with the 78cc.
+
+## Pedals and brakes
+- pedals
+- brake wires
+- Brake drum
+
+I got the brake drum from the same website I got the front axle from
+
 
 Cad parts screenshots
 =============
