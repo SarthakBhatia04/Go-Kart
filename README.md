@@ -62,6 +62,8 @@ Price sheet is above in file name: Gokart Price sheet
 ![Screenshot 2024-09-03 192132](https://github.com/user-attachments/assets/60ae7db4-b59c-4a2b-87c7-a9e44ac93039)
 ## Chair
 ![Screenshot 2024-09-03 192213](https://github.com/user-attachments/assets/1395abcb-260b-4919-bd06-ffa020ee5a24)
+## Steering wheel pipe
+![Screenshot 2024-09-03 192304](https://github.com/user-attachments/assets/fef4286b-62e0-4364-8f3c-fa6d9e15609f)
 
 
 
