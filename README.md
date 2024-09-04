@@ -54,6 +54,9 @@ Price sheet is above in file name: Gokart Price sheet
 ![Screenshot 2024-09-03 191922](https://github.com/user-attachments/assets/7669215f-849a-4765-9fc2-a17ff99b0a49)
 ## Standing bearings
 ![Screenshot 2024-09-03 192001](https://github.com/user-attachments/assets/6721e59d-b635-4aa3-9484-171f37be746c)
+## Steering tie rods
+![Screenshot 2024-09-03 192040](https://github.com/user-attachments/assets/5e836052-a673-47be-bb5c-d2894e3b440f)
+
 
 
 
