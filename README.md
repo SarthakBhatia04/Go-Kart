@@ -45,6 +45,8 @@ The parts constructed in Solidworks are not up to scale. This discrepancy arises
 Price sheet is above in file name: Gokart Price sheet
 
 ![Screenshot 2024-09-03 173345](https://github.com/user-attachments/assets/a02c6272-ee17-4ac3-905e-cffb44be740d)
+![Screenshot 2024-09-03 191754](https://github.com/user-attachments/assets/09590198-666a-4b60-894d-1d27e4a7492e)
+
 
 
 Process photos
