@@ -17,6 +17,8 @@ Some photos of brainstorming
 
 Component Research
 =============
+All of this went into a spreadsheet I made asi tracked the parts cost per item, amount needed, vendor, and schedule for when it would come.
+
 ## Wheels
 - Spindle kit for the front two wheels
 - 5/8th inch bolts for the back two wheels
@@ -48,7 +50,6 @@ I tried to get a 78cc engine from Harbor Freight but it was unavailable to be sh
 - Brake drum
 
 I got the brake drum from the same website I got the front axle from
-
 
 Cad parts screenshots
 =============
@@ -85,6 +86,8 @@ Many parts went into making this part, including spacers between the brake drum 
 ## Front axle connector
 ![Screenshot 2024-09-03 193335](https://github.com/user-attachments/assets/f03f63bf-905b-4b05-8fa0-3127ea9a50b9)
 ![Screenshot 2024-09-03 193402](https://github.com/user-attachments/assets/d29a4e2e-7b78-4860-96cc-f786bee054fa)
+
+For this section, I had to create two separate parts because the right-side front axle faces the opposite direction compared to the left-side front axle. Instead of designing four distinct parts, I only needed to create two different parts and use one part for both sides, maintaining consistency and simplifying the design.
 
 Process photos
 =============
