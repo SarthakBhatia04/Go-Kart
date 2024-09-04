@@ -1,11 +1,11 @@
 ### Table of Contents
 [Inspiration](#inspiration)   
-[Brainstorming photos](#brainstrsoming-photos)
-[Component Research](#component-research)   
-[Cad parts screenshots](#cad-parts-screenshots)    
+[Brainstorming photos](#brainstrsoming-photos)  
+[Component Research](#component-research)  
+[Cad parts screenshots](#cad-parts-screenshots)     
 [Process photos](#process-photos)  
-[R-studios screenshots](#r-studios-screenshots)
-[Errors and Solutions](#errors-and-solutions)
+[R-studios screenshots](#r-studios-screenshots)  
+[Errors and Solutions](#errors-and-solutions)  
 
 Inspiration
 =============
