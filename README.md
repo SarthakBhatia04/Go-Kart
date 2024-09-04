@@ -12,7 +12,8 @@ In the early stages of my go-kart project, I found a lot of inspiration by watch
 
 Brainstorming photos
 =============
-Some photos of brainstorming
+![Screenshot 2024-09-04 150231](https://github.com/user-attachments/assets/ea176d12-d6c3-4d7e-a9be-100e2efa2a69)
+![Screenshot 2024-09-04 150243](https://github.com/user-attachments/assets/0f2f251e-487e-4eb7-882c-a0978096df95)
 
 Component Research
 =============
