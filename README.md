@@ -64,6 +64,9 @@ Price sheet is above in file name: Gokart Price sheet
 ![Screenshot 2024-09-03 192213](https://github.com/user-attachments/assets/1395abcb-260b-4919-bd06-ffa020ee5a24)
 ## Steering wheel pipe
 ![Screenshot 2024-09-03 192304](https://github.com/user-attachments/assets/fef4286b-62e0-4364-8f3c-fa6d9e15609f)
+## Front axle connector
+![Screenshot 2024-09-03 193335](https://github.com/user-attachments/assets/f03f63bf-905b-4b05-8fa0-3127ea9a50b9)
+![Screenshot 2024-09-03 193402](https://github.com/user-attachments/assets/d29a4e2e-7b78-4860-96cc-f786bee054fa)
 
 
 
