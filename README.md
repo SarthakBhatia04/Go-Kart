@@ -4,7 +4,6 @@
 [Component Research](#component-research)  
 [Cad parts screenshots](#cad-parts-screenshots)     
 [Process photos](#process-photos)  
-[R-studios screenshots](#r-studios-screenshots)  
 [Errors and Solutions](#errors-and-solutions)  
 
 Inspiration
@@ -90,9 +89,6 @@ Many parts went into making this part, including spacers between the brake drum 
 For this section, I had to create two separate parts because the right-side front axle faces the opposite direction compared to the left-side front axle. Instead of designing four distinct parts, I only needed to create two different parts and use one part for both sides, maintaining consistency and simplifying the design.
 
 Process photos
-=============
-
-R-studios screenshots
 =============
 
 Error and solutions
