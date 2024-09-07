@@ -14,6 +14,8 @@ Brainstorming photos
 =============
 ![Screenshot 2024-09-04 150231](https://github.com/user-attachments/assets/ea176d12-d6c3-4d7e-a9be-100e2efa2a69)
 ![Screenshot 2024-09-04 150243](https://github.com/user-attachments/assets/0f2f251e-487e-4eb7-882c-a0978096df95)
+![Screenshot 2024-09-06 173353](https://github.com/user-attachments/assets/1e19eb2c-2e9c-4dd2-bdb6-ac4823b4819f)
+![Screenshot 2024-09-06 173403](https://github.com/user-attachments/assets/1c426188-0c74-4ff0-b186-c2dadad0a0f4)
 
 Component Research
 =============
