@@ -118,10 +118,13 @@ Put the cut frame in place to see if there were any missed measurements
 ## Step 7
 ![Screenshot 2024-09-06 174104](https://github.com/user-attachments/assets/477ecac3-ece0-4753-a88d-8af6e131f646)
 
-The steering wheel on my Excel was too big with the outer rim and was 0.75 inches rather than being just short of it. With this being the case, I I brought the bearings to the home depot and found another pole that would fit the bearings. The shell was a little bigger with a length of 3 feet, so I had to adjust the angle to be a bit steeper. 
+The steering wheel on my Excel was too big with the outer rim and was 0.75 inches rather than being just short of it. With this being the case, I brought the bearings to the Home Depot and found another pole that would fit the bearings. The shell was a little bigger with a length of 3 feet, so I had to adjust the angle to be a bit steeper. 
 
 ## Step 8
 ![Screenshot 2024-09-25 003442](https://github.com/user-attachments/assets/1ed0b156-3ac0-4cd7-b7b1-d7355ee55e92)
+
+Because the other pieces may fall or the angle may be messed up I combined the steps of the support for the steering wheel and the combination of the steering wheel to the support as one step. First I cut the support and glued the bearing to the front of the frame and the support area. Since I wanted to have a nice area to implement the support area for my feet I added that also and let everything set with cold weld glue after welding. After everything was set I put the steering wheel in and put tape on the approximate height I would like the steering wheel would sit in by wrapping the tape around a multitude of times. After that was done, I welded the tie rod connector to the frame and also cold welded it in as well.
+## Step 9
 ![Screenshot 2024-09-25 003550](https://github.com/user-attachments/assets/592e17dd-ab05-4723-8a65-ef9d1b345ae7)
 ![Screenshot 2024-09-25 003604](https://github.com/user-attachments/assets/d7f46738-1d66-44e6-b30b-5e12eedc19e1)
 ![Screenshot 2024-09-25 003617](https://github.com/user-attachments/assets/dbc3273c-a70a-40a2-9b1c-26a981fd2092)
