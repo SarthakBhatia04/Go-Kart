@@ -95,14 +95,24 @@ Process photos
 =============
 ## Step 1
 ![Screenshot 2024-09-06 174042](https://github.com/user-attachments/assets/bea4ace9-8b19-4d03-81de-267e7aa0839e)
+
+Organized the materials on the table
 ## Step 2
 ![Screenshot 2024-09-25 004851](https://github.com/user-attachments/assets/71d3c573-437a-4a68-90fe-88610937a43e)
+
+Measured how long the width and the length of the go-kart should be and marked them with a Sharpie
 ## Step 3
 ![Screenshot 2024-09-25 004914](https://github.com/user-attachments/assets/41e807b7-59f1-444d-beb8-6b277df2308d)
+
+Cut the frame
 ## Step 4
 ![Screenshot 2024-09-25 004836](https://github.com/user-attachments/assets/a958046d-2faf-4921-b66a-67c09bfaad7b)
+
+Put the cut frame in place to see if there were any missed measurements
 ## Step 5
 ![Screenshot 2024-09-25 004903](https://github.com/user-attachments/assets/019224af-d48e-4c0a-9fc1-98e64a833e54)
+
+
 ## Step 6
 ![Screenshot 2024-09-06 174050](https://github.com/user-attachments/assets/f917c6ce-5862-44dc-a617-6a8a78c9ede0)
 ## Step 7
