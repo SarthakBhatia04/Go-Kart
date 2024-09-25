@@ -96,6 +96,14 @@ Process photos
 ![Screenshot 2024-09-06 174042](https://github.com/user-attachments/assets/bea4ace9-8b19-4d03-81de-267e7aa0839e)
 ![Screenshot 2024-09-06 174050](https://github.com/user-attachments/assets/f917c6ce-5862-44dc-a617-6a8a78c9ede0)
 ![Screenshot 2024-09-06 174104](https://github.com/user-attachments/assets/477ecac3-ece0-4753-a88d-8af6e131f646)
+![Screenshot 2024-09-25 003442](https://github.com/user-attachments/assets/1ed0b156-3ac0-4cd7-b7b1-d7355ee55e92)
+![Screenshot 2024-09-25 003550](https://github.com/user-attachments/assets/592e17dd-ab05-4723-8a65-ef9d1b345ae7)
+![Screenshot 2024-09-25 003604](https://github.com/user-attachments/assets/d7f46738-1d66-44e6-b30b-5e12eedc19e1)
+![Screenshot 2024-09-25 003617](https://github.com/user-attachments/assets/dbc3273c-a70a-40a2-9b1c-26a981fd2092)
+![Screenshot 2024-09-25 003650](https://github.com/user-attachments/assets/2067a8b5-61d4-420e-9fc8-4d83c64b6e6b)
+![Screenshot 2024-09-25 003700](https://github.com/user-attachments/assets/62f2484a-ad4c-4140-8159-2fc143d77ffd)
+![Screenshot 2024-09-25 003820](https://github.com/user-attachments/assets/5f42c540-4c6a-4314-8723-1c27202802d0)
+![Screenshot 2024-09-25 003711](https://github.com/user-attachments/assets/3b4a4ec3-ea64-448c-a1ca-cfd5e9232eb9)
 
 Error and solutions
 =============
