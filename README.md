@@ -112,9 +112,11 @@ Put the cut frame in place to see if there were any missed measurements
 ## Step 5
 ![Screenshot 2024-09-25 004903](https://github.com/user-attachments/assets/019224af-d48e-4c0a-9fc1-98e64a833e54)
 
-
+Put connectors on both tubes to put them in place for welding activities and cold weld glue
 ## Step 6
 ![Screenshot 2024-09-06 174050](https://github.com/user-attachments/assets/f917c6ce-5862-44dc-a617-6a8a78c9ede0)
+
+
 ## Step 7
 ![Screenshot 2024-09-06 174104](https://github.com/user-attachments/assets/477ecac3-ece0-4753-a88d-8af6e131f646)
 
