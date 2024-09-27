@@ -144,10 +144,11 @@ Getting some shopping cart wheels and using some leftover pipes I attached the w
 ## Step 13
 ![Screenshot 2024-09-25 003617](https://github.com/user-attachments/assets/dbc3273c-a70a-40a2-9b1c-26a981fd2092)
 
-I attached the go-kart wheels and the engine supports with its own designated go-kart wheels. Also since the tie rods were too short, I made a home depot trip and got long screw rods that would fit the tie rod connectors. With that i welded, colde welded, and then taped the welding and glued mistakes on the steering wheels.
+I attached the go-kart wheels and the engine supports with its own designated go-kart wheels. Also since the tie rods were too short, I made a home depot trip and got long screw rods that would fit the tie rod connectors. With that I welded, cold welded, and then taped the welding and glued mistakes on the steering wheels.
 ## Step 14
 ![Screenshot 2024-09-25 003700](https://github.com/user-attachments/assets/62f2484a-ad4c-4140-8159-2fc143d77ffd)
 
+The clutch and sprocket setup I had, had different holes to attach it to the wheel, so after drilling new holes everything fit [perfectly. after attaching the gear to the wheel, I put the engine on the go-kart to see where the correct place to put it and used a bike chain breaker and some pliers to break the chain and attach the chain connector.
 ## Step 15
 ![Screenshot 2024-09-25 003820](https://github.com/user-attachments/assets/5f42c540-4c6a-4314-8723-1c27202802d0)
 
