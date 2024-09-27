@@ -162,7 +162,7 @@ I attached the engine using the Nut and bolt I got from Home Depot and then atta
 
 Here is a picture of me sitting on it
 
-Error and solutions
+EErrors and Solutions
 =============
 
 ## Tie rods
