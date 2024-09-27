@@ -140,10 +140,11 @@ Looking down below the seating area, I decided to pivot to help support the seat
 ## Step 12
 ![Screenshot 2024-09-26 193832](https://github.com/user-attachments/assets/6029a5a3-758b-4fa7-ae7c-f925b187fd9c)
 
-
+Getting some shopping cart wheels and using some leftover pipes I attached the wheels to two pipes and it was perfectly the correct height to be attached below the seat. I also made two more for the engine as I didn't want that much stress on one of the other wheels as well. this of course will affect the steering of the go-kart but I decided the integrity of the go-kart was more important.
 ## Step 13
 ![Screenshot 2024-09-25 003617](https://github.com/user-attachments/assets/dbc3273c-a70a-40a2-9b1c-26a981fd2092)
 
+I attached the go-kart wheels and then also attached the engine supports with its own designated go-kart wheels.
 ## Step 14
 ![Screenshot 2024-09-25 003700](https://github.com/user-attachments/assets/62f2484a-ad4c-4140-8159-2fc143d77ffd)
 
