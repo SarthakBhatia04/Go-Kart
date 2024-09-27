@@ -133,18 +133,23 @@ On the ground set up where the seat would go while also making sure there was ro
 ![Screenshot 2024-09-25 003604](https://github.com/user-attachments/assets/d7f46738-1d66-44e6-b30b-5e12eedc19e1)
 
 ## Step 11
+
+![Screenshot 2024-09-26 193822](https://github.com/user-attachments/assets/a2c153a8-a177-440c-b672-4afd4db9b677)
+## Step 12
+![Screenshot 2024-09-26 193832](https://github.com/user-attachments/assets/6029a5a3-758b-4fa7-ae7c-f925b187fd9c)
+## Step 13
 ![Screenshot 2024-09-25 003617](https://github.com/user-attachments/assets/dbc3273c-a70a-40a2-9b1c-26a981fd2092)
 
-## Step 12
+## Step 14
 ![Screenshot 2024-09-25 003700](https://github.com/user-attachments/assets/62f2484a-ad4c-4140-8159-2fc143d77ffd)
 
-## Step 13
+## Step 15
 ![Screenshot 2024-09-25 003820](https://github.com/user-attachments/assets/5f42c540-4c6a-4314-8723-1c27202802d0)
 
-## Step 14
+## Step 16
 ![Screenshot 2024-09-25 003650](https://github.com/user-attachments/assets/2067a8b5-61d4-420e-9fc8-4d83c64b6e6b)
 
-## Step 15
+## Step 17
 ![Screenshot 2024-09-25 003711](https://github.com/user-attachments/assets/3b4a4ec3-ea64-448c-a1ca-cfd5e9232eb9)
 
 Error and solutions
