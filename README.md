@@ -144,7 +144,7 @@ Getting some shopping cart wheels and using some leftover pipes I attached the w
 ## Step 13
 ![Screenshot 2024-09-25 003617](https://github.com/user-attachments/assets/dbc3273c-a70a-40a2-9b1c-26a981fd2092)
 
-I attached the go-kart wheels and the engine supports with its own designated go-kart wheels. Also since the tie rods were too short, I made a home depot trip and got long screw rods that would fit the tie rod connectors. With that I welded, cold welded, and then taped the welding and glued mistakes on the steering wheels.
+I attached the go-kart wheels and the engine supports with its own designated go-kart wheels. Also since the tie rods were too short, I made a home depot trip and got long screw rods that would fit the tie rod connectors. With that, I welded, cold-welded, and then taped the welding and glued mistakes on the steering wheels.
 ## Step 14
 ![Screenshot 2024-09-25 003700](https://github.com/user-attachments/assets/62f2484a-ad4c-4140-8159-2fc143d77ffd)
 
@@ -152,11 +152,11 @@ The clutch and sprocket setup I had, had different holes to attach it to the whe
 ## Step 15
 ![Screenshot 2024-09-25 003820](https://github.com/user-attachments/assets/5f42c540-4c6a-4314-8723-1c27202802d0)
 
-After marking where the engine should be I attached the engine mount on to the go-kart
+After marking where the engine should be I attached the engine mount to the go-kart
 ## Step 16
 ![Screenshot 2024-09-25 003650](https://github.com/user-attachments/assets/2067a8b5-61d4-420e-9fc8-4d83c64b6e6b)
 
-I attached the engine using Nut and bolt I got from home depot and then attached the edal wires wrapping it with tape  to decure a more tough and enhanced fit.
+I attached the engine using the Nut and bolt I got from Home Depot and then attached the pedal wires wrapping it with tape  to secure a more tough and enhanced fit. With that, I also used additional tubing, drilled holes in them for the pedals, and then attached the additional tubing to the go-kart so that the pedals would feel like they had more height for a bigger driver like myself.
 ## Step 17
 ![Screenshot 2024-09-25 003711](https://github.com/user-attachments/assets/3b4a4ec3-ea64-448c-a1ca-cfd5e9232eb9)
 
