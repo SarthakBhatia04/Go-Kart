@@ -19,7 +19,7 @@ Brainstorming photos
 
 Component Research
 =============
-All of this went into a spreadsheet I made as I tracked the parts cost per item, amount needed, vendor, and schedule for when it would come.
+All of this went into a spreadsheet I made as I tracked the cost of the parts per item, amount needed, vendor, and schedule for when it would come.
 
 ## Wheels
 - Spindle kit for the front two wheels
@@ -164,3 +164,12 @@ Here is a picture of me sitting on it
 
 Error and solutions
 =============
+
+## Tie rods
+- The tie rods were too short for the steering mechanism so I had to improvise and use only the connectors within the kit. I went to home depot and home screw rods where the screw would be all over the rod like with the steering wheel and used that instead. This warranted the steering wheel to be lowered also which in turn helped since the steering wheel being lowered made it in a more comfortable spot for reiders.
+
+## Steering wheel
+- The steering wheel I got had bad dimensions so I had to take the bearers and go around stores for a better fit. I eventually got a better fit with the problem being it was longer than what I had initially planned. Luckily with the tire rods also being longer than originally planned, the steering wheel was allowed to be lowered more which led to the height difference not being a big factor.
+
+## Welding
+- With this being my first tie welding, I was unable to make good welds and was also oblivious to the fact that aluminum and steel wouldn't weld well. So after I welded everything in place I used cold weld glue as well and also used black tape to hide all my welds and cold welding mistakes.
