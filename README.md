@@ -128,7 +128,7 @@ Because the other pieces may fall or the angle may be messed up I combined the s
 ## Step 9
 ![Screenshot 2024-09-25 003550](https://github.com/user-attachments/assets/592e17dd-ab05-4723-8a65-ef9d1b345ae7)
 
-
+On the ground set up the gokart
 ## Step 10
 ![Screenshot 2024-09-25 003604](https://github.com/user-attachments/assets/d7f46738-1d66-44e6-b30b-5e12eedc19e1)
 
