@@ -19,7 +19,7 @@ Brainstorming photos
 
 Component Research
 =============
-All of this went into a spreadsheet I made asi tracked the parts cost per item, amount needed, vendor, and schedule for when it would come.
+All of this went into a spreadsheet I made as I tracked the parts cost per item, amount needed, vendor, and schedule for when it would come.
 
 ## Wheels
 - Spindle kit for the front two wheels
@@ -152,10 +152,11 @@ The clutch and sprocket setup I had, had different holes to attach it to the whe
 ## Step 15
 ![Screenshot 2024-09-25 003820](https://github.com/user-attachments/assets/5f42c540-4c6a-4314-8723-1c27202802d0)
 
+After marking where the engine should be I attached the engine mount on to the go-kart
 ## Step 16
 ![Screenshot 2024-09-25 003650](https://github.com/user-attachments/assets/2067a8b5-61d4-420e-9fc8-4d83c64b6e6b)
 
-
+I attached the engine using Nut and bolt I got from home depot and then attached the edal wires wrapping it with tape  to decure a more tough and enhanced fit.
 ## Step 17
 ![Screenshot 2024-09-25 003711](https://github.com/user-attachments/assets/3b4a4ec3-ea64-448c-a1ca-cfd5e9232eb9)
 
