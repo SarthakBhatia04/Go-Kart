@@ -132,11 +132,15 @@ On the ground set up where the seat would go while also making sure there was ro
 ## Step 10
 ![Screenshot 2024-09-25 003604](https://github.com/user-attachments/assets/d7f46738-1d66-44e6-b30b-5e12eedc19e1)
 
+Attached the seat supports and attached the seats using screws I got from home depot and drilled holes into the pipes.
 ## Step 11
-
 ![Screenshot 2024-09-26 193822](https://github.com/user-attachments/assets/a2c153a8-a177-440c-b672-4afd4db9b677)
+
+Looking down below the seating area, I decided to pivot to help support the seating area so it wouldn't sage down within the area and give some less stress to the go-kart wheel areas.
 ## Step 12
 ![Screenshot 2024-09-26 193832](https://github.com/user-attachments/assets/6029a5a3-758b-4fa7-ae7c-f925b187fd9c)
+
+
 ## Step 13
 ![Screenshot 2024-09-25 003617](https://github.com/user-attachments/assets/dbc3273c-a70a-40a2-9b1c-26a981fd2092)
 
