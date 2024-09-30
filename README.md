@@ -155,8 +155,9 @@ The clutch and sprocket setup I had, had different holes to attach it to the whe
 After marking where the engine should be I attached the engine mount to the go-kart
 ## Step 16
 ![Screenshot 2024-09-25 003650](https://github.com/user-attachments/assets/2067a8b5-61d4-420e-9fc8-4d83c64b6e6b)
+![Screenshot 2024-09-30 043317](https://github.com/user-attachments/assets/bd9b1905-9480-471d-8c62-861103da2f33)
 
-I attached the engine using the Nut and bolt I got from Home Depot and then attached the pedal wires wrapping it with tape  to secure a more tough and enhanced fit. With that, I also used additional tubing, drilled holes in them for the pedals, and then attached the additional tubing to the go-kart so that the pedals would feel like they had more height for a bigger driver like myself.
+I attached the engine using the Nut and bolt I got from Home Depot and then attached the pedal wires wrapping it with tape to secure a more tough and enhanced fit. With that, I also used additional tubing, drilled holes in them for the pedals, and then attached the additional tubing to the go-kart so that the pedals would feel like they had more height for a bigger driver like myself. In order to attach the pedal wiring to the engine with greather ease, I removed a part of the engine. The nutmeg setup i brought also came helpfule with filling up air in the tires as some tires needed reajusting before I was to fill them with air.
 ## Step 17
 ![Screenshot 2024-09-25 003711](https://github.com/user-attachments/assets/3b4a4ec3-ea64-448c-a1ca-cfd5e9232eb9)
 
